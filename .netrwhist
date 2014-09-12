@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/fiziolek/.google/picasa/3.0'
+let g:netrw_dirhist_2='/home/fiziolek'
+let g:netrw_dirhist_3='/home/fiziolek/.FBReader'
+let g:netrw_dirhist_4='/home/fiziolek'
